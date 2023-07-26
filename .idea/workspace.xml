@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ea5b90e-d945-4eff-aec0-0a998cbca565" name="변경" comment="Java200" />
+    <list default="true" id="6ea5b90e-d945-4eff-aec0-0a998cbca565" name="변경" comment="Java200">
+      <change afterPath="$PROJECT_DIR$/src/p28to80/p28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p28to80/p29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p28to80/p30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p28to80/p31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p28to80/p32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p28to80/p33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p28to80/p34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p28to80/p35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toP27/P26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toP27/p17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toP27/p18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toP27/p19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toP27/p20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toP27/p21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toP27/p22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toP27/p23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toP27/p24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toP27/p25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/toP27/p27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toP27/p14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toP27/p15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/toP27/p16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p17.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,13 +50,13 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -40,7 +65,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690190923025</updated>
-      <workItem from="1690190924148" duration="1114000" />
+      <workItem from="1690190924148" duration="8048000" />
+      <workItem from="1690297069283" duration="6211000" />
+      <workItem from="1690358336555" duration="7125000" />
     </task>
     <task id="LOCAL-00001" summary="Java200">
       <created>1690204787900</created>
@@ -49,7 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690204787900</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Java200">
+      <created>1690204841051</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690204841051</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Java200">
+      <created>1690205024233</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690205024233</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ea5b90e-d945-4eff-aec0-0a998cbca565" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/p28to80/p36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p28to80/p37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p28to80/p38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p28to80/p39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p28to80/p40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p28to80/p41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p28to80/p42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p28to80/p43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p28to80/p44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p28to80/p45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p28to80/p46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p28to80/p47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p28to80/p48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p28to80/p49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/p28to80/p50.java" afterDir="false" />
+    <list default="true" id="6ea5b90e-d945-4eff-aec0-0a998cbca565" name="변경" comment="~p50">
+      <change afterPath="$PROJECT_DIR$/src/p28to80/p51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p28to80/p52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p28to80/p53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p28to80/p54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p28to80/p55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p28to80/p56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p28to80/p57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p28to80/p58.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p28to80/p35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p28to80/p35.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +35,14 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "sql.code.style.group"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;sql.code.style.group&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -62,7 +54,11 @@
       <workItem from="1690190924148" duration="8048000" />
       <workItem from="1690297069283" duration="6211000" />
       <workItem from="1690358336555" duration="8049000" />
-      <workItem from="1690414129762" duration="8376000" />
+      <workItem from="1690414129762" duration="9000000" />
+      <workItem from="1690551609390" duration="1047000" />
+      <workItem from="1690554062331" duration="6000" />
+      <workItem from="1690778870702" duration="3730000" />
+      <workItem from="1690800100605" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="Java200">
       <created>1690204787900</created>
@@ -92,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690384397291</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="~p50">
+      <created>1690423164935</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690423164935</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,7 +115,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java200" />
     <MESSAGE value="~p35" />
-    <option name="LAST_COMMIT_MESSAGE" value="~p35" />
+    <MESSAGE value="~p50" />
+    <option name="LAST_COMMIT_MESSAGE" value="~p50" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
